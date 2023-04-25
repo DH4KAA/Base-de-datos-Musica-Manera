@@ -1,0 +1,1 @@
+Alter table premios comment 'Distintos tipos de premios obtenidos por la banda y el año en el que los consiguieron';
